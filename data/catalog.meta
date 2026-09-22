@@ -1,0 +1,5 @@
+TABLE:test_students
+COL:id:INT:1:255
+COL:name:TEXT:0:255
+COL:marks:INT:0:255
+END_TABLE
